@@ -1,7 +1,3 @@
-Capes
-=====
-
-ForCapes
 developer=https://www.dropbox.com/s/sbmpg8ztybi2aw7/devcape.png
 developer=SuperBrea
 developer=superMinerDad
